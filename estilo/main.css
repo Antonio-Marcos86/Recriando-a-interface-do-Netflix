@@ -7,6 +7,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     background: var(--preta);
     font-family: Arial, Times , serif;
@@ -45,11 +46,7 @@ span h4 {
     transition: all 0.3s;
 }
 .item:hover{
-     border:5px solid rgb(135, 159, 185);
-    -moz-transform: scale(1.1);
-    -webkit-transform: scale(1.1);
-    transform: scale(1.1);
-     
+     border:3px solid white;    
 }
 /*coisas relacionadas a serie um maluco no pedaço*/
 .filme-principal{
