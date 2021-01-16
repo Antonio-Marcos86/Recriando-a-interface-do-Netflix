@@ -22,16 +22,15 @@
 
 <!-- APAGAR ESSA FOTO E COLOCAR UM SCREENSHOT DO PROJETO -->
 
-## Conteúdos
+## Conteúdos:
 
   - [Descrição](#recriando-a-interface-do-netflix)
   - [Conteúdos](#conteúdos)
   - [Suporte](#suporte)
   - [Como contribuir](#como-contribuir)
-  - [Licença](#licença)
   - [Status do Projeto](#status-do-projeto)
 
-## Suporte
+## Suporte:
 
 
 ![image](https://user-images.githubusercontent.com/71250901/104823420-ac71b000-5828-11eb-9968-698d79e72f7b.png)
@@ -46,7 +45,7 @@ implementações futuras:
 
     - ***Inserir botão:*** Será inserido um botão para assinatura de novos clientes.
 
-## Como contribuir
+## Como contribuir:
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
 
@@ -63,10 +62,7 @@ Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir c
 🚀 Compartilhando este projeto com seus amigos.
 
 
-## Licença
 
-Aqui você coloca o tipo de licença que o projeto precisa.(MIT, GNU ou afins).
+## Status do Projeto:
 
-## Status do Projeto
-
-projeto em andamento.
+Projeto em andamento.
