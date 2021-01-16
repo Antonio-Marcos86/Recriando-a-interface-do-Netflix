@@ -6,7 +6,7 @@ RFecriado a interface do netflix, no Bootcamp da Avanade e Digital innovation On
 
 <!-- AQUI VOCÊ PODE COLOCAR O LOGO, UMA IMAGEM QUE REPRESENTE O PROJETO OU O QUE MAIS QUISER -->
 
-![image](https://user-images.githubusercontent.com/6373438/104758414-2cbae700-573d-11eb-8cc4-0a1ad34c1216.png)
+![image](https://user-images.githubusercontent.com/71250901/104822808-218eb680-5824-11eb-97d2-77bc9e6d4d45.png)
 
 
 
