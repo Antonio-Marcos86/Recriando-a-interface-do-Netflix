@@ -1,12 +1,6 @@
-# Recriando-a-interface-do-Netflix
- ## recriando a interface do netflix.
- ## com menus funcionais.
- ## e dois botões também funicionas na página principal.
-Modelo de readme
-
-
-
-Aqui vai uma descrição do que o meu projeto faz, ou irá fazer.
+# Recriando a interface do Netflix
+ 
+RFecriado a interface do netflix, no Bootcamp da Avanade e Digital innovation One. 
 
 
 
