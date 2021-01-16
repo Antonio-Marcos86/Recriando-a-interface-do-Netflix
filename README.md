@@ -1,6 +1,6 @@
 # Recriando a interface do Netflix
  
-RFecriado a interface do netflix, no Bootcamp da Avanade e Digital innovation One. 
+Recriado a interface do **Netflix, no Bootcamp da Avanade e Digital innovation One.** 
 
 
 
